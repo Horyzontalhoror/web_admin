@@ -1,5 +1,8 @@
-Laravel untuk Admin
-
+Laravel untuk Admin:
+clone menggunakan git:
+```bash
+git clone https://github.com/Horyzontalhoror/web_admin.git
+```
 Langkah-Langkah Instalasi
 
 1. Instal Dependensi dengan Composer
